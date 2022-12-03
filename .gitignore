@@ -1,0 +1,7 @@
+*.so
+*.o
+*.a
+tools/fsk_demod
+tools/fsk_mod
+tools/fsk_get_test_bits
+tools/fsk_put_test_bits
